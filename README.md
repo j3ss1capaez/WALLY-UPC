@@ -1,0 +1,2 @@
+# hello-world
+El presente artículo contiene la determinación de la deflexión a lo largo de una viga simplemente apoyada que representa el efecto de las cargas sobre un puente. Para establecer esta deflexión se realiza un modelo en el cual se han instalado dos sensores (laser y ultrasonido), su objetivo es medir distancias en dos ejes (X,Y), estos valores obtenidos se registran en una plataforma DAS (Arduino) y se trasladan a un sistema GUI (Processing) donde se realiza un modelización para evidenciar la deflexión.
